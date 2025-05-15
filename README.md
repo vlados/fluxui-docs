@@ -1,6 +1,19 @@
 # Flux UI Docs
+![Laravel](https://img.shields.io/badge/Laravel-10%2B-FF2D20?style=flat&logo=laravel)
+![Livewire](https://img.shields.io/badge/Livewire-3%2B-FB70A9?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4%2B-38B2AC?style=flat&logo=tailwind-css)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-This repository contains comprehensive documentation for Flux UI, a robust UI component library for Laravel Livewire applications.
+This repository contains detailed documentation for Flux UI, a robust UI component library designed for Laravel Livewire applications. It includes comprehensive guides for all components, installation instructions, theming, customization options, and best practices.
+
+The documentation covers:
+- 35+ UI components with examples and usage patterns
+- Installation and upgrade guides
+- Theming and dark mode implementation
+- Core design principles and component patterns
+- Customization options
+
+Whether you're new to Flux UI or an experienced user, this documentation provides valuable resources to help you build beautiful, functional interfaces with the Flux UI library.
 
 ## Overview
 
