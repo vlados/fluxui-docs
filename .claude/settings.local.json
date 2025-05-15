@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__fetch__fetch",
+      "Bash(mkdir:*)",
+      "mcp__brave__brave_web_search"
+    ],
+    "deny": []
+  }
+}
